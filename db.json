@@ -37,7 +37,26 @@
 				"last_payment_date": "07.11.2040",
 				"remaining_payments_number": 32,
 				"benefit" : "0,00"
-			}]
+			}],
+			"exchange_rates" : [{
+					"currency": "CZK",
+					"sell": "25,2619",
+					"buy": "25,9911",
+					"country": "Czech Republic"
+				},
+				{
+					"currency": "GBP",
+					"sell": "0,8567",
+					"buy": "0,8678",
+					"country": "Great Britain"
+				},
+				{
+					"currency": "USD",
+					"sell": "1,1346",
+					"buy": "1,1402",
+					"country": "USA"
+				}
+			]
 		},
 		{
 			"id": 2,
@@ -58,7 +77,26 @@
 				"type": "debit",
 				"valid_date": "03/23"
 			}],
-			"loans": [{}]
+			"loans": [{}],
+			"exchange_rates" : [{
+					"currency": "CZK",
+					"sell": "25,3519",
+					"buy": "25,8711",
+					"country": "Czech Republic"
+				},
+				{
+					"currency": "GBP",
+					"sell": "0,8664",
+					"buy": "0,8765",
+					"country": "Great Britain"
+				},
+				{
+					"currency": "USD",
+					"sell": "1,1234",
+					"buy": "1,1356",
+					"country": "USA"
+				}
+			]
 		},
 		{
 			"id": 3,
@@ -79,7 +117,26 @@
 				"type": "debit",
 				"valid_date": "12/21"
 			}],
-			"loans": [{}]
+			"loans": [{}],
+			"exchange_rates" : [{
+					"currency": "EUR",
+					"sell": "24,9955",
+					"buy": "26,2772",
+					"country": "Slovak Republic"
+				},
+				{
+					"currency": "GBP",
+					"sell": "29,1590",
+					"buy": "30,6547",
+					"country": "Great Britain"
+				},
+				{
+					"currency": "USD",
+					"sell": "22,0223",
+					"buy": "23,1516",
+					"country": "USA"
+				}
+			]
 		}
 	],
 	"widgets": [{
