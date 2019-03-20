@@ -36,9 +36,9 @@
 				"next_instalment_date": "21.2.2019",
 				"last_payment_date": "07.11.2040",
 				"remaining_payments_number": 32,
-				"benefit" : "0,00"
+				"benefit": "0,00"
 			}],
-			"exchange_rates" : [{
+			"exchange_rates": [{
 					"currency": "CZK",
 					"sell": "25,2619",
 					"buy": "25,9911",
@@ -56,7 +56,8 @@
 					"buy": "1,1402",
 					"country": "USA"
 				}
-			]
+			],
+			"mutal_funds": [{}]
 		},
 		{
 			"id": 2,
@@ -78,7 +79,7 @@
 				"valid_date": "03/23"
 			}],
 			"loans": [{}],
-			"exchange_rates" : [{
+			"exchange_rates": [{
 					"currency": "CZK",
 					"sell": "25,3519",
 					"buy": "25,8711",
@@ -96,7 +97,24 @@
 					"buy": "1,1356",
 					"country": "USA"
 				}
-			]
+			],
+			"mutal_funds": [{
+				"account_number": "4356789",
+				"actual_balance": "5 0000,00",
+				"fonds": [{
+						"name": "Americký akciový fond",
+						"balance": "2 000,00"
+					},
+					{
+						"name": "DynamicAlpha fond",
+						"balance": "2 500,00"
+					},
+					{
+						"name": "HarmonicFond",
+						"balance": "500,00"
+					}
+				]
+			}]
 		},
 		{
 			"id": 3,
@@ -118,7 +136,7 @@
 				"valid_date": "12/21"
 			}],
 			"loans": [{}],
-			"exchange_rates" : [{
+			"exchange_rates": [{
 					"currency": "EUR",
 					"sell": "24,9955",
 					"buy": "26,2772",
@@ -136,7 +154,8 @@
 					"buy": "23,1516",
 					"country": "USA"
 				}
-			]
+			],
+			"mutal_funds": [{}]
 		}
 	],
 	"transactions": {
