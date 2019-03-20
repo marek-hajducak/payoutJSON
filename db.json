@@ -58,13 +58,13 @@
 				}
 			],
 			"mutal_funds": [{}],
-			"pension" : [{
-				"saved_amount" : "8 788,20",
-				"participiant_contribution" : "4 279,70",
-				"employer_contribution" : "4 508,50",
-				"units_number" : 251726,
-				"units_value" : 0.034912,
-				"date" : "16.03.2009"
+			"pension": [{
+				"saved_amount": "8 788,20",
+				"participiant_contribution": "4 279,70",
+				"employer_contribution": "4 508,50",
+				"units_number": 251726,
+				"units_value": 0.034912,
+				"date": "16.03.2009"
 			}]
 		},
 		{
@@ -123,7 +123,7 @@
 					}
 				]
 			}],
-			"pension" : [{}]
+			"pension": [{}]
 		},
 		{
 			"id": 3,
@@ -165,7 +165,7 @@
 				}
 			],
 			"mutal_funds": [{}],
-			"pension" : [{}]
+			"pension": [{}]
 		}
 	],
 	"transactions": {
