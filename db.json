@@ -30,7 +30,7 @@
 				}
 			],
 			"loans": [{
-				"number": "00-0000000001",
+				"number": 000000000001,
 				"name": "Bezučelový úver",
 				"type": "Consumer instalment lean unsecured",
 				"amount": "10 000,00",
