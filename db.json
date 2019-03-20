@@ -1,14 +1,32 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "accounts": [
+    { 
+      "id": 1, 
+      "name": "Tatra Banka",
+      "amount" : "46 300,00",
+      "holder" : "Marek Hajdučák",
+      "IBAN" : "SK92 1100 0000 0045 1279 2021"
+    },
+    { 
+      "id": 2, 
+      "name": "Slovenská Sporitelna", 
+      "amount" : "2 300,89",
+      "holder" : "Marek Hajdučák",
+      "IBAN" : "SK92 3400 0000 0082 2402 4628"
+    },
+    { 
+      "id": 3, 
+      "name": "Fio Banka", 
+      "amount" : "125 840,19",
+      "holder" : "Marek Hajdučák",
+      "IBAN" : "SK92 8900 0000 0033 1972 4O92"
+    }
   ],
-  "comments": [
+  "widgets": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
+  "transactions": {
     "name": "typicode"
   }
 }
