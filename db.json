@@ -101,7 +101,7 @@
 			"mutal_funds": [{
 				"account_number": "4356789",
 				"actual_balance": "5 0000,00",
-				"fonds": [{
+				"funds": [{
 						"name": "Americký akciový fond",
 						"balance": "2 000,00"
 					},
