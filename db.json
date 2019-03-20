@@ -1,53 +1,59 @@
 {
-  "accounts": [
-    { 
-      "id": 1, 
-      "holder" : "Marek Hajdučák",
-      "account_number" : "45 1279 2021/1100",
-      "IBAN" : "SK92 1100 0000 0045 1279 2021",
-      "bank_name": "Tatra Banka",
-      "available_balance": "47 456,00",
-      "current_balance" : "46 300,00",
-      "blocked_amount" : "1 156,00",
-      "BIC/SWIFT" : "TATRASKFUCCC",
-      "currency" : "EUR",
-      "create_date" : "31.01.2015",
-      "active" : true
-    },
-    { 
-      "id": 2,
-      "holder" : "Marek Hajdučák",
-      "account_number" : "82 2402 4628/3400",
-      "IBAN" : "SK92 3400 0000 0082 2402 4628",
-      "bank_name": "Slovenská Sporiteľna", 
-      "available_balance" : "2 300,00",
-      "current_balance" : "2 300,89",
-      "blocked_amount" : "0,89",
-      "BIC/SWIFT" : "SSPSKGFF345",
-      "currency" : "EUR",
-      "create_date" : "12.03.2015",
-      "active" : true
-    },
-    { 
-      "id": 3,
-      "holder" : "Marek Hajdučák",
-      "account_number" : "33 1972 4O92/8900",
-      "IBAN" : "SK92 8900 0000 0033 1972 4O92",
-      "bank_name": "Fio Banka", 
-      "available_balance" : "125 840,19",
-      "current_balance" : "150 330,00",
-      "blocked_amount" : "24 489,81",
-      "BIC/SWIFT" : "FIOCZFFXXX",
-      "currency" : "CZE",
-      "create_date" : "31.09.2018",
-      "active" : true
-    }
-  ],
-  "widgets": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "transactions": {
-    "name": "typicode"
-  }
+	"accounts": [{
+			"id": 1,
+			"holder": "Marek Hajdučák",
+			"account_number": "45 1279 2021/1100",
+			"IBAN": "SK92 1100 0000 0045 1279 2021",
+			"bank_name": "Tatra Banka",
+			"available_balance": "47 456,00",
+			"current_balance": "46 300,00",
+			"blocked_amount": "1 156,00",
+			"BIC/SWIFT": "TATRASKFUCCC",
+			"currency": "EUR",
+			"create_date": "31.01.2015",
+			"active": true
+		},
+		{
+			"id": 2,
+			"holder": "Marek Hajdučák",
+			"account_number": "82 2402 4628/3400",
+			"IBAN": "SK92 3400 0000 0082 2402 4628",
+			"bank_name": "Slovenská Sporiteľna",
+			"available_balance": "2 300,00",
+			"current_balance": "2 300,89",
+			"blocked_amount": "0,89",
+			"BIC/SWIFT": "SSPSKGFF345",
+			"currency": "EUR",
+			"create_date": "12.03.2015",
+			"active": true
+		},
+		{
+			"id": 3,
+			"holder": "Marek Hajdučák",
+			"account_number": "33 1972 4O92/8900",
+			"IBAN": "SK92 8900 0000 0033 1972 4O92",
+			"bank_name": "Fio Banka",
+			"available_balance": "125 840,19",
+			"current_balance": "150 330,00",
+			"blocked_amount": "24 489,81",
+			"BIC/SWIFT": "FIOCZFFXXX",
+			"currency": "CZE",
+			"create_date": "31.09.2018",
+			"active": true
+		}
+	],
+	"widgets": [{
+			"id": 1,
+			"body": "some comment",
+			"postId": 1
+		},
+		{
+			"id": 2,
+			"body": "some comment",
+			"postId": 1
+		}
+	],
+	"transactions": {
+		"name": "typicode"
+	}
 }
