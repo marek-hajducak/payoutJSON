@@ -65,7 +65,8 @@
 				"units_number": 251726,
 				"units_value": 0.034912,
 				"date": "16.03.2009"
-			}]
+			}],
+			"goals": [{}]
 		},
 		{
 			"id": 2,
@@ -123,7 +124,8 @@
 					}
 				]
 			}],
-			"pension": [{}]
+			"pension": [{}],
+			"goals": [{}]
 		},
 		{
 			"id": 3,
@@ -165,7 +167,29 @@
 				}
 			],
 			"mutal_funds": [{}],
-			"pension": [{}]
+			"pension": [{}],
+			"goals": [{
+				"type": "Travelling",
+				"created": "20.01.2019",
+				"intended_zermination": "August 2019",
+				"target_amount": "98 000,00",
+				"current_saving": "45 0000,00",
+				"remains": "6 months",
+				"monthly": "8333,33",
+				"assigned_products": [{
+						"id": "CZ8311000000000005600000124",
+						"name": "Sporiaci systém",
+						"type": "Saving Account",
+						"balance": "35 000,00"
+					},
+					{
+						"id": "CZ32456789",
+						"name": "PODNUK A.S.",
+						"type": "Share",
+						"balance": "10 000,00"
+					}
+				]
+			}]
 		}
 	],
 	"transactions": {
