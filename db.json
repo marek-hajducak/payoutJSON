@@ -24,7 +24,20 @@
 					"type": "credit",
 					"valid_date": "11/19"
 				}
-			]
+			],
+			"loans": [{
+				"number": "00-0000000001",
+				"name": "Bezučelový úver",
+				"type": "Consumer instalment lean unsecured",
+				"amount": "10 000,00",
+				"current_balance": "4 729,98",
+				"rate": "14.90 %",
+				"amount_of_payment": "134,00",
+				"next_instalment_date": "21.2.2019",
+				"last_payment_date": "07.11.2040",
+				"remaining_payments_number": 32,
+				"benefit" : "0,00"
+			}]
 		},
 		{
 			"id": 2,
@@ -40,12 +53,12 @@
 			"create_date": "12.03.2015",
 			"active": true,
 			"credit_cards": [{
-					"card_number": "1234 1234 1234 9898",
-					"card_name": "SSP ma3 Visa EUR",
-					"type": "debit",
-					"valid_date": "03/23"
-				}
-			]
+				"card_number": "1234 1234 1234 9898",
+				"card_name": "SSP ma3 Visa EUR",
+				"type": "debit",
+				"valid_date": "03/23"
+			}],
+			"loans": [{}]
 		},
 		{
 			"id": 3,
@@ -61,12 +74,12 @@
 			"create_date": "31.09.2018",
 			"active": true,
 			"credit_cards": [{
-					"card_number": "1345 2567 9200 3455",
-					"card_name": "FIO CULOSIOU MasterCard CZE",
-					"type": "debit",
-					"valid_date": "12/21"
-				}
-			]
+				"card_number": "1345 2567 9200 3455",
+				"card_name": "FIO CULOSIOU MasterCard CZE",
+				"type": "debit",
+				"valid_date": "12/21"
+			}],
+			"loans": [{}]
 		}
 	],
 	"widgets": [{
