@@ -66,7 +66,7 @@
 				}
 			],
 			"mutal_funds": [{}],
-			"pension": [{
+			"pensions": [{
 				"id" : 1,
 				"saved_amount": "8 788,20",
 				"participiant_contribution": "4 279,70",
@@ -179,7 +179,7 @@
 					}
 				]
 			}],
-			"pension": [{}],
+			"pensions": [{}],
 			"goals": [{}]
 		},
 		{
@@ -227,7 +227,7 @@
 				}
 			],
 			"mutal_funds": [{}],
-			"pension": [{}],
+			"pensions": [{}],
 			"goals": [{
 				"id" : 1,
 				"type": "Travelling",
