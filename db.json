@@ -1,15 +1,2 @@
 {
-  "accounts":
-    [
-      {
-        "id": 1,
-        "amout": 34566,
-        "name" : "TatraBanka"
-      }
-    ] ,
-  "transactions": 
-  {
-  
-  
-  },
 }
