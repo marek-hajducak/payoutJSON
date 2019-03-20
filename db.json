@@ -66,7 +66,39 @@
 				"units_value": 0.034912,
 				"date": "16.03.2009"
 			}],
-			"goals": [{}]
+			"goals": [{}],
+			"assets_liabilities": [{
+				"id": "6758",
+				"assets_balance": "25 638,00",
+				"liabilities_balance": "7 539,00",
+				"assets": [{
+						"name": "Money Market Deposit",
+						"amount": "5 638,00",
+						"percentage": "21,29"
+					},
+					{
+						"name": "Investments And Savings",
+						"amount": "5 00,00",
+						"percentage": "19,50"
+					},
+					{
+						"name": "My Property",
+						"amount": "15 000,00",
+						"percentage": "58,51"
+					}
+				],
+				"liabilites": [{
+						"name": "Credit Cards",
+						"amount": "2 539,00",
+						"percentage": "33,68"
+					},
+					{
+						"name": "Leasing",
+						"amount": "5 000,00",
+						"percentage": "66,32"
+					}
+				]
+			}]
 		},
 		{
 			"id": 2,
