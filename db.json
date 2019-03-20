@@ -1,6 +1,15 @@
 {
-  "userId": 1,
-  "id": 1,
-  "title": "delectus aut autem",
-  "completed": false
+  "accounts":
+    [
+      {
+        "id": 1,
+        "amout": 34566,
+        "name" : "TatraBanka"
+      }
+    ] ,
+  "transactions": 
+  {
+  
+  
+  },
 }
