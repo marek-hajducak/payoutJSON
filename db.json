@@ -43,6 +43,16 @@
 				"remaining_payments_number": 32,
 				"benefit": "0,00"
 			}],
+			"branches": [{
+				"id" : 1,
+				"address" : "Veľká Okružná 59/A, 010 01 Žilina",
+				"distance" : 340
+			}],
+			"atms": [{
+				"id" : 1,
+				"address" : "Veľká Okružná 59/A, 010 01 Žilina",
+				"distance" : 340
+			}],
 			"exchange_rates": [{
 					"id" : 1,
 					"currency": "CZK",
@@ -191,6 +201,8 @@
 				"remaining_payments_number": 6,
 				"benefit": "0,00"
 			}],
+			"branches": [{}],
+			"atms": [{}],
 			"exchange_rates": [{
 					"id" : 1,
 					"currency": "CZK",
@@ -260,6 +272,8 @@
 				"valid_date": "12/21"
 			}],
 			"loans": [{}],
+			"branches": [{}],
+			"atms": [{}],
 			"exchange_rates": [{
 					"id" : 1,
 					"currency": "EUR",
