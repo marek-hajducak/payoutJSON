@@ -65,7 +65,27 @@
 					"country": "USA"
 				}
 			],
-			"mutal_funds": [{}],
+			"mutal_funds": [{
+				"id" : 1,
+				"account_number": "4356789",
+				"actual_balance": "5 0000,00",
+				"funds": [{
+						"id" : 1,
+						"name": "Americký akciový fond",
+						"balance": "2 000,00"
+					},
+					{
+						"id" : 2,
+						"name": "DynamicAlpha fond",
+						"balance": "2 500,00"
+					},
+					{
+						"id" : 3,
+						"name": "HarmonicFond",
+						"balance": "500,00"
+					}
+				]
+			}],
 			"pensions": [{
 				"id" : 1,
 				"saved_amount": "8 788,20",
@@ -75,7 +95,29 @@
 				"units_value": 0.034912,
 				"date": "16.03.2009"
 			}],
-			"goals": [{}],
+			"goals": [{
+				"id" : 1,
+				"type": "Travelling",
+				"created": "10.01.2018",
+				"intended_termination": "August 2019",
+				"target_amount": "10 000,00",
+				"current_saving": "8 000,00",
+				"remains": "10 months",
+				"monthly": "200",
+				"assigned_products": [{
+						"id": "SK8311000000000005600000124",
+						"name": "Sporiaci systém",
+						"type": "Saving Account",
+						"balance": "3 000,00"
+					},
+					{
+						"id": "SK32456789",
+						"name": "PODNIK A.S.",
+						"type": "Share",
+						"balance": "5 000,00"
+					}
+				]	
+			}],
 			"assets_liabilities": [{
 				"id": 6758,
 				"assets_balance": "25 638,00",
@@ -135,7 +177,20 @@
 				"type": "debit",
 				"valid_date": "03/23"
 			}],
-			"loans": [{}],
+			"loans": [{
+				"id" : 1,
+				"number": "000000000001",
+				"name": "Bezučelový úver",
+				"type": "Consumer instalment lean unsecured",
+				"amount": "2 000,00",
+				"current_balance": "1 729,98",
+				"rate": "5.90 %",
+				"amount_of_payment": "54,00",
+				"next_instalment_date": "21.4.2019",
+				"last_payment_date": "06.11.2009",
+				"remaining_payments_number": 6,
+				"benefit": "0,00"
+			}],
 			"exchange_rates": [{
 					"id" : 1,
 					"currency": "CZK",
