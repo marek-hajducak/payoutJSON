@@ -180,7 +180,8 @@
 				]
 			}],
 			"pensions": [{}],
-			"goals": [{}]
+			"goals": [{}],
+			"assets_liabilities": [{}]
 		},
 		{
 			"id": 3,
@@ -250,7 +251,8 @@
 						"balance": "10 000,00"
 					}
 				]
-			}]
+			}],
+			"assets_liabilities": [{}]
 		}
 	],
 	"transactions": {
