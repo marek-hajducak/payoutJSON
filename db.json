@@ -324,7 +324,46 @@
 			"assets_liabilities": [{}]
 		}
 	],
-	"transactions": {
-		"name": "typicode"
-	}
+	"transactions": [{
+		"id" : 1,
+		"account_id" : 1,
+		"name" : "PIZZA",
+		"ammount" : 9.60,
+		"type" : 2,
+		"incoming_type" : nil,
+		"outgoing_type" : "Eat and Drink" ,
+		"outgoing_under_type" : "Restaurant",
+		"desctiption": "Kazačok Pub Vlčince",
+		"merchant" : "KAZAČOK PUB",
+		"posting_date" : "12. 3. 2019",
+		"value_date" : "15. 3. 2019"
+	}, 
+	{
+		"id" : 2,
+		"account_id" : 1,
+		"name" : "Pohonné Hmoty",
+		"ammount" : 53.70,
+		"type" : 2,
+		"incoming_type" : nil,
+		"outgoing_type" : "Transport" ,
+		"outgoing_under_type" : "Patrol",
+		"desctiption": "Shell",
+		"merchant" : "Shell",
+		"posting_date" : "10. 1. 2019",
+		"value_date" : "11. 1. 2019"
+	},
+			{
+		"id" : 3,
+		"account_id" : 1,
+		"name" : "Výplata",
+		"ammount" : 1110.20,
+		"type" : 1,
+		"incoming_type" : "Pay",
+		"outgoing_type" : nil ,
+		"outgoing_under_type" : nil,
+		"desctiption": "PayOut",
+		"merchant" : "PayOut Slovensko",
+		"posting_date" : "20. 4. 2019",
+		"value_date" : "23. 4. 2019"
+	}]
 }
