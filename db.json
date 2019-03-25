@@ -13,16 +13,16 @@
 			"create_date": "31.01.2015",
 			"active": true,
 			"credit_cards": [{
-					"id" : 1,
-					"account_id" : 1,
+					"id": 1,
+					"account_id": 1,
 					"card_number": "3628 2920 0045 2021",
 					"card_name": "TB Debit Visa EUR",
 					"type": "debit",
 					"valid_date": "09/22"
 				},
 				{
-					"id" : 2,
-					"account_id" : 1,
+					"id": 2,
+					"account_id": 1,
 					"card_number": "1244 1049 1389 1342",
 					"card_name": "TB Credit MasterCard EUR",
 					"type": "credit",
@@ -30,7 +30,7 @@
 				}
 			],
 			"loans": [{
-				"id" : 1,
+				"id": 1,
 				"number": "000000000001",
 				"name": "Bezučelový úver",
 				"type": "Consumer instalment lean unsecured",
@@ -44,31 +44,31 @@
 				"benefit": "0,00"
 			}],
 			"branches": [{
-				"id" : 1,
-				"address" : "Veľká Okružná 59/A, 010 01 Žilina",
-				"distance" : 340
+				"id": 1,
+				"address": "Veľká Okružná 59/A, 010 01 Žilina",
+				"distance": 340
 			}],
 			"atms": [{
-				"id" : 1,
-				"address" : "Veľká Okružná 59/A, 010 01 Žilina",
-				"distance" : 340
+				"id": 1,
+				"address": "Veľká Okružná 59/A, 010 01 Žilina",
+				"distance": 340
 			}],
 			"exchange_rates": [{
-					"id" : 1,
+					"id": 1,
 					"currency": "CZK",
 					"sell": "25,2619",
 					"buy": "25,9911",
 					"country": "Czech Republic"
 				},
 				{
-					"id" : 2,
+					"id": 2,
 					"currency": "GBP",
 					"sell": "0,8567",
 					"buy": "0,8678",
 					"country": "Great Britain"
 				},
 				{
-					"id" : 3,
+					"id": 3,
 					"currency": "USD",
 					"sell": "1,1346",
 					"buy": "1,1402",
@@ -76,28 +76,28 @@
 				}
 			],
 			"mutal_funds": [{
-				"id" : 1,
+				"id": 1,
 				"account_number": "4356789",
 				"actual_balance": "5 0000,00",
 				"funds": [{
-						"id" : 1,
+						"id": 1,
 						"name": "Americký akciový fond",
 						"balance": "2 000,00"
 					},
 					{
-						"id" : 2,
+						"id": 2,
 						"name": "DynamicAlpha fond",
 						"balance": "2 500,00"
 					},
 					{
-						"id" : 3,
+						"id": 3,
 						"name": "HarmonicFond",
 						"balance": "500,00"
 					}
 				]
 			}],
 			"pensions": [{
-				"id" : 1,
+				"id": 1,
 				"saved_amount": "8 788,20",
 				"participiant_contribution": "4 279,70",
 				"employer_contribution": "4 508,50",
@@ -106,7 +106,7 @@
 				"date": "16.03.2009"
 			}],
 			"goals": [{
-				"id" : 1,
+				"id": 1,
 				"type": "Travelling",
 				"created": "10.01.2018",
 				"intended_termination": "August 2019",
@@ -126,39 +126,39 @@
 						"type": "Share",
 						"balance": "5 000,00"
 					}
-				]	
+				]
 			}],
 			"assets_liabilities": [{
 				"id": 6758,
 				"assets_balance": "25 638,00",
 				"liabilities_balance": "7 539,00",
 				"assets": [{
-						"id" : 1,
+						"id": 1,
 						"name": "Money Market Deposit",
 						"amount": "5 638,00",
 						"percentage": "21,29"
 					},
 					{
-						"id" : 2,
+						"id": 2,
 						"name": "Investments And Savings",
 						"amount": "5 00,00",
 						"percentage": "19,50"
 					},
 					{
-						"id" : 3,
+						"id": 3,
 						"name": "My Property",
 						"amount": "15 000,00",
 						"percentage": "58,51"
 					}
 				],
 				"liabilities": [{
-						"id" : 1,
+						"id": 1,
 						"name": "Credit Cards",
 						"amount": "2 539,00",
 						"percentage": "33,68"
 					},
 					{
-						"id" : 2,
+						"id": 2,
 						"name": "Leasing",
 						"amount": "5 000,00",
 						"percentage": "66,32"
@@ -180,15 +180,15 @@
 			"create_date": "12.03.2015",
 			"active": true,
 			"credit_cards": [{
-				"id" : 1,
-				"account_id" : 2,
+				"id": 1,
+				"account_id": 2,
 				"card_number": "1234 1234 1234 9898",
 				"card_name": "SSP ma3 Visa EUR",
 				"type": "debit",
 				"valid_date": "03/23"
 			}],
 			"loans": [{
-				"id" : 1,
+				"id": 1,
 				"number": "000000000001",
 				"name": "Bezučelový úver",
 				"type": "Consumer instalment lean unsecured",
@@ -204,21 +204,21 @@
 			"branches": [{}],
 			"atms": [{}],
 			"exchange_rates": [{
-					"id" : 1,
+					"id": 1,
 					"currency": "CZK",
 					"sell": "25,3519",
 					"buy": "25,8711",
 					"country": "Czech Republic"
 				},
 				{
-					"id" : 2,
+					"id": 2,
 					"currency": "GBP",
 					"sell": "0,8664",
 					"buy": "0,8765",
 					"country": "Great Britain"
 				},
 				{
-					"id" : 3,
+					"id": 3,
 					"currency": "USD",
 					"sell": "1,1234",
 					"buy": "1,1356",
@@ -226,21 +226,21 @@
 				}
 			],
 			"mutal_funds": [{
-				"id" : 1,
+				"id": 1,
 				"account_number": "4356789",
 				"actual_balance": "5 0000,00",
 				"funds": [{
-						"id" : 1,
+						"id": 1,
 						"name": "Americký akciový fond",
 						"balance": "2 000,00"
 					},
 					{
-						"id" : 2,
+						"id": 2,
 						"name": "DynamicAlpha fond",
 						"balance": "2 500,00"
 					},
 					{
-						"id" : 3,
+						"id": 3,
 						"name": "HarmonicFond",
 						"balance": "500,00"
 					}
@@ -264,8 +264,8 @@
 			"create_date": "31.09.2018",
 			"active": true,
 			"credit_cards": [{
-				"id" : 1,
-				"account_id" : 3,
+				"id": 1,
+				"account_id": 3,
 				"card_number": "1345 2567 9200 3455",
 				"card_name": "FIO CULOSIOU MasterCard CZE",
 				"type": "debit",
@@ -275,21 +275,21 @@
 			"branches": [{}],
 			"atms": [{}],
 			"exchange_rates": [{
-					"id" : 1,
+					"id": 1,
 					"currency": "EUR",
 					"sell": "24,9955",
 					"buy": "26,2772",
 					"country": "Slovak Republic"
 				},
 				{
-					"id" : 2,
+					"id": 2,
 					"currency": "GBP",
 					"sell": "29,1590",
 					"buy": "30,6547",
 					"country": "Great Britain"
 				},
 				{
-					"id" : 3,
+					"id": 3,
 					"currency": "USD",
 					"sell": "22,0223",
 					"buy": "23,1516",
@@ -299,7 +299,7 @@
 			"mutal_funds": [{}],
 			"pensions": [{}],
 			"goals": [{
-				"id" : 1,
+				"id": 1,
 				"type": "Travelling",
 				"created": "20.01.2019",
 				"intended_termination": "August 2019",
@@ -325,45 +325,46 @@
 		}
 	],
 	"transactions": [{
-		"id" : 1,
-		"account_id" : 1,
-		"name" : "PIZZA",
-		"ammount" : 9.60,
-		"type" : 2,
-		"incoming_type" : nil,
-		"outgoing_type" : "Eat and Drink" ,
-		"outgoing_under_type" : "Restaurant",
-		"desctiption": "Kazačok Pub Vlčince",
-		"merchant" : "KAZAČOK PUB",
-		"posting_date" : "12. 3. 2019",
-		"value_date" : "15. 3. 2019"
-	}, 
-	{
-		"id" : 2,
-		"account_id" : 1,
-		"name" : "Pohonné Hmoty",
-		"ammount" : 53.70,
-		"type" : 2,
-		"incoming_type" : nil,
-		"outgoing_type" : "Transport" ,
-		"outgoing_under_type" : "Patrol",
-		"desctiption": "Shell",
-		"merchant" : "Shell",
-		"posting_date" : "10. 1. 2019",
-		"value_date" : "11. 1. 2019"
-	},
-			{
-		"id" : 3,
-		"account_id" : 1,
-		"name" : "Výplata",
-		"ammount" : 1110.20,
-		"type" : 1,
-		"incoming_type" : "Pay",
-		"outgoing_type" : nil ,
-		"outgoing_under_type" : nil,
-		"desctiption": "PayOut",
-		"merchant" : "PayOut Slovensko",
-		"posting_date" : "20. 4. 2019",
-		"value_date" : "23. 4. 2019"
-	}]
+			"id": 1,
+			"account_id": 1,
+			"name": "PIZZA",
+			"ammount": 9.60,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Eat and Drink",
+			"outgoing_under_type": "Restaurant",
+			"desctiption": "Kazačok Pub Vlčince",
+			"merchant": "KAZAČOK PUB",
+			"posting_date": "12. 3. 2019",
+			"value_date": "15. 3. 2019"
+		},
+		{
+			"id": 2,
+			"account_id": 1,
+			"name": "Pohonné Hmoty",
+			"ammount": 53.70,
+			"type": 2,
+			"incoming_type": null,
+			"outgoing_type": "Transport",
+			"outgoing_under_type": "Patrol",
+			"desctiption": "Shell",
+			"merchant": "Shell",
+			"posting_date": "10. 1. 2019",
+			"value_date": "11. 1. 2019"
+		},
+		{
+			"id": 3,
+			"account_id": 1,
+			"name": "Výplata",
+			"ammount": 1110.20,
+			"type": 1,
+			"incoming_type": "Pay",
+			"outgoing_type": null,
+			"outgoing_under_type": null,
+			"desctiption": "PayOut",
+			"merchant": "PayOut Slovensko",
+			"posting_date": "20. 4. 2019",
+			"value_date": "23. 4. 2019"
+		}
+	]
 }
